@@ -1,4 +1,4 @@
-# 💜 Violet Launcher
+# 💜 Violet Launcher abandoned
 
 **A modern Minecraft launcher with a beautiful Dark Violet interface.**
 
